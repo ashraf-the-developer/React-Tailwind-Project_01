@@ -1,1 +1,1 @@
-https://ashraf-the-developer.github.io/React-Tailwind-Project_01/
+https://reactandtailwindproject.netlify.app/
